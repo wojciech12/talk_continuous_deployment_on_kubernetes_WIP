@@ -4,6 +4,8 @@ Continous Deployment for k8s
 
 Plan: talk about our continous deployment based on git (github) and run on travis.
 
+Have a rant on gitops ;) ... it is 201x of course, we use git to drive our infrastructure.
+
 Related Work
 ------------
 
